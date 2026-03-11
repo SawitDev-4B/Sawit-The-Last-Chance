@@ -31,3 +31,10 @@ STUDI KASUS
   - Nama Projek (game) : "Sawit: The Last Chance"
   - Tujuan : Selain sebagai hiburan, Sawit: The Last Chance menjadi wadah edukasi dan kepedulian terhadap lingkungan  
   - Target Pengguna : Player Roblox terutama remaja
+  - Langkah- langkah pembuatan repository Git di github.com :
+      1. Sign up jika belum memiliki akun github, sign in jika sudah memiliki akun github
+      2. Setelah masuk kedalam halaman github.com, dibagian kiri halaman terdapat icon buku bertuliskan "new" yang dimana untuk membuat repository baru
+      3. Jika sudah diklik, akan berpindah ke halaman create a new repository 
+      4. Isi nama dan deskripsi repository
+      5. dibagian visibility bisa dipilih ingin private atau public tergantung kebutuhan
+      6. lalu ke paling bawah klik "create repository"
