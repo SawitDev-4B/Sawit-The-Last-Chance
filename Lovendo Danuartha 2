@@ -1,11 +1,23 @@
 Pertemuan 2 – Software Development Life Cycle (SDLC)
-
-Tujuan: Mahasiswa mampu menerapkan tahapan pengembangan perangkat lunak melalui berbagai model siklus hidupnya
-
-Contoh Permasalahan : 
-Tim bingung menentukan metode pengembangan yang tepat untuk sistem yang kebutuhannya sering berubah
+Nama : Lovendo Danuartha
+NIM  : 2403015061
 
 Studi Kasus
-• Pilih model SDLC yang sesuai dengan proyek
-• Jelaskan alasan pemilihan model
-• Buat diagram tahapan SDLC proyek
+1. Model yang kami pilih dalam proyek ini adalah GDLC (Game Development Life Cycle)
+2. GDLC (Game Development Life Cycle) terdapat tahapan tahapan yang yang terstruktur dan juga sistematis untuk pembuatan dan pengembangan game. GDLC sendiri memiliki 6 tahapan
+   yaitu :
+   1. Initiation
+      tahapan dari ide ide dan konsep kasar terkait game yang akan dirancang dikumpulkan dan disusun
+   2. Pre Production
+      ide yang sudah disusun dikembangkan dan dibuat menjadi sebuah Game Design Document, yang berisi nama, konsep, genre, mekanik, konsep visual, bahkan narasi di dalam game
+   3. Production
+      Tahap produksi berkaitan dengan pembuatan aset aset yang digunakan di dalam game serta proses pemrograman di dalam game engine
+   4. Testing
+      sebuah tahapan penilaian untuk menguji atau menilai game yang dirancang
+   5. Beta
+      tahapan pengujian yang dilakukan secara eksternal dan dilakukan kepada calon pemain dari game yang sedang dikembangkan
+   6. Release
+      tahapan yang berisikan game sudah siap untuk di publikasikan
+   Oleh karna itu kami memilih model GDLC (Game Development Life Cycle) untuk Project game Sawit The Last Chance dikarenakan membantu tim mengelola tahapan produksi dengan 
+   lebih terorganisir untuk menghasilkan game yang berkualitas.
+3. diagram tahapan SDLC project :
