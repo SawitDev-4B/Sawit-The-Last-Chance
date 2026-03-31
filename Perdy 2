@@ -1,7 +1,8 @@
 Nama : Perdylasta - Project Manager
 NIM  : 2403015006
 
-Model SDLC yang kami pilih adalah GDLC (Game Development Life Cycle) karena merupakan framework yang dikhususkan untuk pengembangan game. GDLC sendiri merupakan framework 
+Model SDLC yang kami pilih adalah GDLC (Game Development Life Cycle) karena merupakan framework yang dikhususkan untuk pengembangan game. Kami memilih GDLC karena
+sangat relevan dengan proyek kami dimana proses pengerjaannya berbeda dengan pengembangan software umum. GDLC sendiri merupakan framework 
 yang berisi tahap-tahap dan proses yang membantu developer dalam membuat game (Luay dkk, 2024). Adapun menurut Luay (2024), GDLC berisi:
 1. Inisiasi: Langkah awal yang prosesnya adalah penyaluran ide-ide dan perencanaan bagaimana game akan dikembangkan, karakteristik permainan, identifikasi target audiens,
              dan deskripsi singkat game yang menghasilkan suatu konsep untuk memudahkan proses-proses berikutnya.
